@@ -1,3 +1,5 @@
-# macOS Files
+# macOS files
 **/.DS_Store
 
+# jupyter notebook files
+**/.ipynb_checkpoints
