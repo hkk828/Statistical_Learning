@@ -4,10 +4,10 @@ The data are from The Elements of Statistical Learning (ESL, [link](https://web.
 from the study of Stamey et al. (1989).  
 You can find the data in [data/prostate.csv](../../data/prostate.csv) in this repository.
 
-Response variable : 
+**Response variable:**
 - Level of prostate-specific antigen (lpsa)
 
-Predictors:
+**Predictors:**
 - log cancer volume (lcavol)
 - log prostate weight (lweight)
 - age
