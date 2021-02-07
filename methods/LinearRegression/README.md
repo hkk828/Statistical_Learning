@@ -1,5 +1,8 @@
 ## Linear Regression on prostate cancer data
 
+Linear regression is a very simple model, but for prediction purposes, they can sometimes excel other non-linear models, especially when there is only small training data, low signal-to-noise ratio, or sparse data.  
+
+**Prostate cancer data**  
 The data are from The Elements of Statistical Learning (ESL, [link](https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data)) and originally
 from the study of Stamey et al. (1989).  
 You can find the data in [data/prostate.csv](../../data/prostate.csv) in this repository.
